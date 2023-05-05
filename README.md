@@ -1,6 +1,9 @@
-<center>### Hi Visiters :hand:<center>
+### <center style="color:DarkBlue"> Hi Visiters, I'm Mehmet Ali :hand:<center><hr>
+#### <center style="color:NavyBlue"> A Fullstack Developer from Adana/Turkey </center>
 
+I'm currently working with React and anything related with Javascript
 
+- 📫 How to reach me: m.alidegirmenci@hotmail.com
 
 
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
