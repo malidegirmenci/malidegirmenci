@@ -1,4 +1,4 @@
-<h3 align="center"> 🎇Hi Visiters, I'm Mehmet Ali</h3> <hr>
+<h3 align="center"> 👽 Hi Visiters, I'm Mehmet Ali</h3> <hr>
 <h4 align="center"> A Fullstack Developer from Adana/Turkey </h4>
 <hr>
 <img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"/>
