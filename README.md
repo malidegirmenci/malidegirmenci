@@ -1,10 +1,10 @@
 <h3 align="center"> 👽 Hi Visiters, I'm Mehmet Ali</h3> <hr>
-<h4 align="center"> A Fullstack Developer from Adana/Turkey </h4>
+<h4 align="center"> Transforming A Fullstack Developer from Adana/Turkey </h4>
 <hr>
 <img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"/>
 
 - 👾  I’m currently working with **React.js and anything related with JavaScript.**
--  I'm currently learning ☕Java and 🐍 Python.
+-  I'm currently learning ☕Java
 - 📫 How to reach me: m.alidegirmenci@hotmail.com
 -  💬  Ask me about **C, C++, JavaScript, CSS and React.js.**
 - I regularly write articles on [My Medium Page](https://medium.com/@malidegirmenci)
@@ -27,9 +27,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://jekyllrb.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> </a>
-<a href="https://bulma.io/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="30" height="30"/> </a>  
-<a href="https://www.mysql.com/" target="_blank" rel=”noopener”> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" alt="postgresql" width="30" height="30"/> </a>
 
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
