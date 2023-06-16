@@ -6,8 +6,7 @@
 - 👾  I’m currently working with **React.js and anything related with JavaScript.**
 -  I'm currently learning ☕Java
 - 📫 How to reach me: m.alidegirmenci@hotmail.com
--  💬  Ask me about **C, C++, JavaScript, CSS and React.js.**
-- I regularly write articles on [My Medium Page](https://medium.com/@malidegirmenci)
+- I write articles on [My Medium Page](https://medium.com/@malidegirmenci)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
