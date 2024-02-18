@@ -34,6 +34,9 @@
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malidegirmenci&show_icons=true&locale=en&layout=compact" alt="malidegirmenci" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malidegirmenci&show_icons=true&locale=en" alt="malidegirmenci" /></p>
 <!--
 **malidegirmenci/malidegirmenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
